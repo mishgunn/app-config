@@ -12,3 +12,5 @@ logging: # <----New sections below
       pivotal: DEBUG 
 
 pooling: false
+
+passphrase: '{cipher}6f62de86f40af79ba6b093b527cafcba0a80759c9b4636f45b02793811d65e7fd4da21829785b790a2be241c158a237a'
